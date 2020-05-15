@@ -7,6 +7,7 @@
 
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
+<head>
   <title>Agile = Scrum?</title>
 </head>
 <body>
@@ -45,7 +46,7 @@
    </nav>
     <h4 class="h4 mt-4">What are they all about?</h4>
    <div class="container-sm"><p id= "introduction">Agile is a set of values and principles, a mindset, whereas scrum is a framework that is heuristic (based on continuous learning and adjustment to fluctuating factors).
- Scrum is often referred to as an agile project management framework. It is structured to help teams naturally adapt to changing conditions and user requirements.</p></div>
+   Scrum is often referred to as an agile project management framework. It is structured to help teams naturally adapt to changing conditions and user requirements.</p></div>
   </div>  
    <div class="card mt-4" style="width: 18rem;">
     <img src="https://miro.medium.com/max/1024/0*w_vE9ohFTY3nATa2.png" class="card-img-top" alt="...">
