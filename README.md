@@ -1,4 +1,4 @@
-
+<!DOCTYPE html>
 <html lang="en">
   <head>
     <!-- Required meta tags -->
@@ -43,6 +43,10 @@
        </ul>
      </div>
    </nav>
+    <h4 class="h4 mt-4">What are they all about?</h4>
+   <div class="container-sm"><p id= "introduction">Agile is a set of values and principles, a mindset, whereas scrum is a framework that is heuristic (based on continuous learning and adjustment to fluctuating factors).
+ Scrum is often referred to as an agile project management framework. It is structured to help teams naturally adapt to changing conditions and user requirements.</p></div>
+  </div>  
    <div class="card mt-4" style="width: 18rem;">
     <img src="https://miro.medium.com/max/1024/0*w_vE9ohFTY3nATa2.png" class="card-img-top" alt="...">
     <div class="card-body">
@@ -51,7 +55,7 @@
   </div>
   <button type="button" class="btn btn-success">Click here!</button>
  </div> 
-  </div>  
+ 
        <!-- Optional JavaScript -->
        <!-- jQuery first, then Popper.js, then Bootstrap JS    -->
     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
