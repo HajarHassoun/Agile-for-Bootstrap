@@ -7,9 +7,8 @@
 
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
-<head>    
-  <title>Agile = Scrum?</title>
-</head>
+   <title> Agile = Scrum?</title>
+  </head>
 <body>
   <div class="container.fluid">
    <div class="jumbotron mb-0 mt-4">
@@ -24,7 +23,7 @@
      <div class="collapse navbar-collapse" id="navbarNav">
        <ul class="navbar-nav">
          <li class="nav-item active">
-           <a class="nav-link" href="#">Home <span    class="sr-only">(current)</span></a>
+           <a class="nav-link" href="#">Home</a>
          </li>
          <li class="nav-item">
            <a class="nav-link" href="#">Agile vs Scrum</a>
@@ -44,40 +43,31 @@
        </ul>
      </div>
    </nav>
-    <h4 class="h4 mt-4">What are they all about?</h4>
-   <div class="container-sm"><p id= "introduction">Agile is   a set of values and principles, a mindset, whereas scrum  is a framework that is heuristic (based on continuous     learning and adjustment to fluctuating factors).
-    Scrum is often referred to as an agile project management framework. It is structured to help teams naturally adapt to changing conditions and user requirements.</p>
+    <h3 class="h4 mt-4">What are they all about?</h3>
+   <div class="container-sm"><p id= "introduction">Agile is a set of    values and principles, a mindset, whereas scrum  is a framework that is heuristic (based on continuous     learning and adjustment to fluctuating factors).
+   Scrum is often referred to as an agile project management framework. It is structured to help teams naturally adapt to changing conditions and user requirements.</p>
     </div>
- <h2 class="h2 mt-6">Scrum Artifacts</h2>
+   <h2 class="h2 mt-6">Scrum Artifacts</h2>
     <p>Scrum has 3 Artifacts:</p>
     <ul>
       <li>Product backlog</li>
       <li>Sprint backlog</li>
       <li>Increment</li>
     </ul>
-    <p>These are three constants that you will continue to revisit and invest in over time.
+    <p>These are three constants that you will continue to revisit and  invest in over time.
        The <i>Product Backlog</i> is a dynamic list of features, requirements, enhancements, 
        and fixes that acts as the input for the sprint backlog. The product backlog is constantly 
        revisited, re-prioritized and maintained by the <b>Product Owner</b>.
     </p>
-    <p>The <i>Sprint Backlog</i> is the list of items, user stories, or bug fixes, selected by the 
-       development team for implementation in the current sprint cycle.A sprint backlog may be 
-       flexible and can evolve during a sprint. However, the fundamental sprint goal – what the 
-       team wants to achieve from the current sprint – cannot be compromised.
+    <p>The <i>Sprint Backlog</i> is the list of items, user stories, or bug fixes, selected by the development team for implementation in the current sprint cycle.A sprint backlog may be flexible and can evolve during a sprint. However, the fundamental sprint goal – what the team wants to achieve from the current sprint – cannot be compromised.
     </p>
-    <p>The <i>Increment</i> is the usable end-product from a sprint. it’s often referred to as the 
-       team’s definition of “Done”, a milestone, the sprint goal, or even a full version or a shipped epic. 
+    <p>The <i>Increment</i> is the usable end-product from a sprint. it’s often referred to as the team’s definition of “Done”, a milestone, the sprint goal, or even a full version or a shipped epic. 
     </p>
-   <h2 class="h2 mt-4"><b>Sprints</b></h2>
-    <p>A sprint is a specific short period of time when a Scrum team works to complete a set amount of work. 
-       They break down big,complex projects into bite-sized pieces.
-       Sprints make projects more manageable, allow teams to ship high-quality work faster and more frequently, 
-       and gives them more flexibility to adapt to change.
-       Sprints help teams follow the agile principle of "delivering working software frequently," as well as live 
-       the agile value of "responding to change over following a plan." The scrum values of transparency, inspection, 
-       and adaptation are complementary to agile and central to the concept of sprints.
-    <h2 class="h2 mt-4"><b>Scrum Ceremonies/Events</b></h2>
-    <p>Below is a list of all the key ceremonies a scrum team might partake in:
+  <h2 class="h2 mt-4"><b>Sprints</b></h2>
+    <p> A sprint is a specific short period of time when a Scrum team works to complete a set amount of work.They break down big,complex projects into bite-sized pieces. Sprints make projects more manageable, allow teams to ship high-quality work faster and more frequently, and gives them more flexibility to adapt to change.
+    Sprints help teams follow the agile principle of "delivering working software frequently," as well as live the agile value of "responding to change over following a plan." The scrum values of transparency, inspection, and adaptation are complementary to agile and central to the concept of sprints.
+  <h2 class="h2 mt-4"><b>Scrum Ceremonies/Events</b></h2>
+    <p>Below is a list of all the key ceremonies a scrum team might   partake in:
       <ol>
         <li>Organize the backlog</li>
         <li>Sprint planning</li>
